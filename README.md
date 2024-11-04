@@ -1,7 +1,7 @@
 # News_Summarizer
 
 ## Description
-The News Summarizer is a project built with Jupyter Notebook, leveraging the NewsAPI to fetch the latest technology news and BART by Facebook to summarize articles.
+The News Summarizer is a project leveraging the NewsAPI to fetch the latest technology news and BART by Facebook to summarize articles.
 BART is particularly effective when fine-tuned for text generation (e.g. summarization, translation) but also works well for comprehension tasks (e.g. text classification, question answering). 
 This tool is designed to provide users with concise, informative summaries, all accessible within a user-friendly Google Colab notebook interface.
 
