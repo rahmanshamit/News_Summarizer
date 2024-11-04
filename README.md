@@ -10,3 +10,5 @@ This tool is designed to provide users with concise, informative summaries, all 
 - Summarizes articles for quick, digestible insights with BART.
 - Interactive and shareable Jupyter Notebook environment.
 - Designed for ease of use and minimal setup.
+
+![News_Summarizer ipynb - Colab](https://github.com/user-attachments/assets/f62ed9fd-be31-43a9-9581-431d75ae555b)
