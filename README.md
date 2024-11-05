@@ -5,6 +5,8 @@ The News Summarizer is a project leveraging the NewsAPI to fetch the latest tech
 BART is particularly effective when fine-tuned for text generation (e.g. summarization, translation) but also works well for comprehension tasks (e.g. text classification, question answering). 
 This tool is designed to provide users with concise, informative summaries, all accessible within a user-friendly Google Colab notebook interface.
 
+As I am using free-tier API keys, I have limited news items fetched to the top 5 headlines to avoid long wait times and throttling. 
+
 ## Features
 - Fetches real-time news of chosen category using the NewsAPI.
 - Summarizes articles for quick, digestible insights with BART.
